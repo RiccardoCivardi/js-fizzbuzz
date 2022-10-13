@@ -1,6 +1,5 @@
 body {
   background-color: #0c0f0a;
-  color: white;
 }
 
 .custom-container {
@@ -22,6 +21,8 @@ body {
   border: 1px solid white;
   border-radius: 5px;
   background-color: white;
+  font-size: 0.8rem;
+  font-weight: bold;
 }
 
 .lightblue {
